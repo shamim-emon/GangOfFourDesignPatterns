@@ -13,7 +13,7 @@ Whether you're brushing up on software design principles or learning how to appl
 - **Pattern Type:** Structural
 - **Medium Post:** [Decorator Design Pattern in Kotlin](https://medium.com/@emon.dev.bd/decorator-design-pattern-in-kotlin-368c64eff571)
 - **Overview:** Learn how to dynamically add responsibilities to objects using Kotlin's features like delegation and higher-order functions.
-- **Code Example:** [`/decorator`](./decorator)
+- **Code Example:** [`/decorator`](https://github.com/shamim-emon/GangOfFourDesignPatterns/tree/main/src/main/kotlin/structural/decorator)
 
 ---
 
