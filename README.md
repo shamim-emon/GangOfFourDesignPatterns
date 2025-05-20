@@ -9,18 +9,22 @@ Whether you're brushing up on software design principles or learning how to appl
 
 ## ✅ Published Patterns
 
-### 1. Decorator Pattern
+###  Strategy Pattern
+- **Pattern Type:** behavioural 
+- **Medium Post:** [Strategy Design Pattern in Kotlin](https://medium.com/@emon.dev.bd/strategy-design-pattern-in-kotlin-e9d61ad78ffb)
+- **Code Example:** [`/strategy`](https://github.com/shamim-emon/GangOfFourDesignPatterns/tree/main/src/main/kotlin/behavioral/strategy)
+
+### Decorator Pattern
 - **Pattern Type:** Structural
 - **Medium Post:** [Decorator Design Pattern in Kotlin](https://medium.com/@emon.dev.bd/decorator-design-pattern-in-kotlin-368c64eff571)
-- **Overview:** Learn how to dynamically add responsibilities to objects using Kotlin's features like delegation and higher-order functions.
 - **Code Example:** [`/decorator`](https://github.com/shamim-emon/GangOfFourDesignPatterns/tree/main/src/main/kotlin/structural/decorator)
+
 
 ---
 
 ## 🛠️ Upcoming Patterns
 
 Patterns to be implemented soon:
-- Strategy
 - Observer
 - Factory Method
 - Abstract Factory
