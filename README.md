@@ -30,8 +30,7 @@ Patterns to be implemented soon:
 - Abstract Factory
 - Command
 - Adapter
-- Template Method  
-*(...and more from all three categories: Creational, Structural, Behavioral)*
+- Template Method  and more from all three categories: Creational, Structural, Behavioral
 
 Stay tuned for upcoming blog posts and pattern implementations!
 
