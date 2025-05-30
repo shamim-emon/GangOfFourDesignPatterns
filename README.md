@@ -9,6 +9,11 @@ Whether you're brushing up on software design principles or learning how to appl
 
 ## ✅ Published Patterns
 
+###  State Pattern
+- **Pattern Type:** behavioural 
+- **Medium Post:** [State Design Pattern in Kotlin](https://medium.com/@emon.dev.bd/state-design-pattern-in-kotlin-5427e80bdb96)
+- **Code Example:** [`/strategy`](https://github.com/shamim-emon/GangOfFourDesignPatterns/tree/main/src/main/kotlin/behavioral/state)
+
 ###  Strategy Pattern
 - **Pattern Type:** behavioural 
 - **Medium Post:** [Strategy Design Pattern in Kotlin](https://medium.com/@emon.dev.bd/strategy-design-pattern-in-kotlin-e9d61ad78ffb)
