@@ -29,9 +29,7 @@ class ActiveState: WalletState {
 
 //Concrete state : Overdrawn state
 class OverDrawnState : WalletState {
-    /*for simplicity, I have initialized this property here
-    * Ideally this should be injected
-    * */
+
     private lateinit var activeState: WalletState
 
     fun setActiveState(state: ActiveState) {
