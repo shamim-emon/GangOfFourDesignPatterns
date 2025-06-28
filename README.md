@@ -24,6 +24,11 @@ Whether you're brushing up on software design principles or learning how to appl
 - **Medium Post:** [Decorator Design Pattern in Kotlin](https://medium.com/@emon.dev.bd/decorator-design-pattern-in-kotlin-368c64eff571)
 - **Code Example:** [`/decorator`](https://github.com/shamim-emon/GangOfFourDesignPatterns/tree/main/src/main/kotlin/structural/decorator)
 
+### Command Pattern
+- **Pattern Type:** Behavioral
+- **Medium Post:** [Command Design Pattern in Kotlin](https://medium.com/@emon.dev.bd/command-design-pattern-in-kotlin-445e1219c327)
+- **Code Example:** [`/command`](https://github.com/shamim-emon/GangOfFourDesignPatterns/tree/main/src/main/kotlin/behavioral/command)
+
 
 ---
 
@@ -33,7 +38,7 @@ Patterns to be implemented soon:
 - Observer
 - Factory Method
 - Abstract Factory
-- Command
+- Mediator
 - Adapter
 - Template Method  and more from all three categories: Creational, Structural, Behavioral
 
