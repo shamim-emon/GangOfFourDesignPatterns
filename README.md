@@ -29,6 +29,11 @@ Whether you're brushing up on software design principles or learning how to appl
 - **Medium Post:** [Command Design Pattern in Kotlin](https://medium.com/@emon.dev.bd/command-design-pattern-in-kotlin-445e1219c327)
 - **Code Example:** [`/command`](https://github.com/shamim-emon/GangOfFourDesignPatterns/tree/main/src/main/kotlin/behavioral/command)
 
+### Chain of Responsibility Pattern
+- **Pattern Type:** Behavioral
+- **Medium Post:** [Chain of Responsibility Design Pattern in Kotlin](https://medium.com/@emon.dev.bd/chain-of-responsibility-design-pattern-in-kotlin-92bed71b2ada)
+- **Code Example:** [`/chainOfResponsibility`](https://github.com/shamim-emon/GangOfFourDesignPatterns/tree/main/src/main/kotlin/behavioral/chainOfResponsibility)
+
 
 ---
 
