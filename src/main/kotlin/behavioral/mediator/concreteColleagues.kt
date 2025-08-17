@@ -6,8 +6,8 @@ class CreditCheck : Colleague {
 
     fun checkCredit(profile: Profile) {
         println("CreditCheck: Score = ${profile.creditScore}")
-        if (profile.creditScore < 600) mediator.notify(ColleageEvent(profile = profile, status = "CreditRejected"))
-        else mediator.notify(ColleageEvent(profile = profile, status = "CreditOk"))
+        if (profile.creditScore < 600) mediator.notify(ColleagueEvent(profile = profile, status = "CreditRejected"))
+        else mediator.notify(ColleagueEvent(profile = profile, status = "CreditOk"))
     }
 }
 
@@ -17,8 +17,8 @@ class RiskAssessment : Colleague {
 
     fun assessRisk(profile: Profile) {
         println("RiskAssessment: Income = ${profile.monthlyIncome}")
-        if (profile.monthlyIncome < 2000) mediator.notify(ColleageEvent(profile = profile, status = "HighRisk"))
-        else mediator.notify(ColleageEvent(profile = profile, status = "LowRisk"))
+        if (profile.monthlyIncome < 2000) mediator.notify(ColleagueEvent(profile = profile, status = "HighRisk"))
+        else mediator.notify(ColleagueEvent(profile = profile, status = "LowRisk"))
     }
 }
 

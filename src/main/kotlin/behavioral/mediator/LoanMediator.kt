@@ -11,7 +11,7 @@ class LoanMediator(
         approval.setMediator(this)
     }
 
-    fun notify(event: ColleageEvent) {
+    fun notify(event: ColleagueEvent) {
         when (event.status) {
             "CreditRejected" -> approval.reject(event.profile)
             "CreditOk" -> risk.assessRisk(event.profile)
