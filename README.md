@@ -34,6 +34,11 @@ Whether you're brushing up on software design principles or learning how to appl
 - **Medium Post:** [Chain of Responsibility Design Pattern in Kotlin](https://medium.com/@emon.dev.bd/chain-of-responsibility-design-pattern-in-kotlin-92bed71b2ada)
 - **Code Example:** [`/chainOfResponsibility`](https://github.com/shamim-emon/GangOfFourDesignPatterns/tree/main/src/main/kotlin/behavioral/chainOfResponsibility)
 
+### Mediator Pattern
+- **Pattern Type:** Behavioral
+- **Medium Post:** [Mediator Design Pattern in Kotlin](https://medium.com/@emon.dev.bd/mediator-design-pattern-in-kotlin-a619a70c5332)
+- **Code Example:** [`/mediator`](https://github.com/shamim-emon/GangOfFourDesignPatterns/tree/main/src/main/kotlin/behavioral/mediator)
+
 
 ---
 
@@ -43,7 +48,7 @@ Patterns to be implemented soon:
 - Observer
 - Factory Method
 - Abstract Factory
-- Mediator
+- Memento
 - Adapter
 - Template Method  and more from all three categories: Creational, Structural, Behavioral
 
