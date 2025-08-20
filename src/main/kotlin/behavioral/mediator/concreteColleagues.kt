@@ -29,3 +29,4 @@ class LoanApproval : Colleague {
     fun approve(profile: Profile) = println("Loan Approved for ${profile.accId}")
     fun reject(profile: Profile) = println("Loan Rejected for ${profile.accId}")
 }
+
