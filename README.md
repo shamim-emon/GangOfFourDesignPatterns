@@ -39,6 +39,11 @@ Whether you're brushing up on software design principles or learning how to appl
 - **Medium Post:** [Mediator Design Pattern in Kotlin](https://medium.com/@emon.dev.bd/mediator-design-pattern-in-kotlin-a619a70c5332)
 - **Code Example:** [`/mediator`](https://github.com/shamim-emon/GangOfFourDesignPatterns/tree/main/src/main/kotlin/behavioral/mediator)
 
+### Visitor Pattern
+- **Pattern Type:** Behavioral
+- **Medium Post:** [A Beginner’s Guide to the Visitor Design Pattern in Kotlin](https://medium.com/@emon.dev.bd/a-beginners-guide-to-the-visitor-design-pattern-in-kotlin-597763c62b07)
+- **Code Example:** [`/visitor`](https://github.com/shamim-emon/GangOfFourDesignPatterns/tree/main/src/main/kotlin/behavioral/visitor)
+
 
 ---
 
